@@ -1,2 +1,2 @@
 # Robusystem
-My teams of Devs and a PM Agent
+A products comprising of a team of Devs and a PM Agent.
